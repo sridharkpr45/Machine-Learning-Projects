@@ -1,5 +1,5 @@
 # Machine Learning Projects
-The project provides Four Tasks which is given by Cognifyz Technology.
+The project provides Three Tasks which is given by,
 
 # Task 1 : Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 # Steps:
