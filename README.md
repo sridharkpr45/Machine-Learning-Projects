@@ -1,3 +1,4 @@
+#Machine Learning Projects
 #Task 1 : Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 #Steps:
 Preprocess the dataset by handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
